@@ -50,15 +50,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![Sanuga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanuga-kusalwin&show_icons=true&theme=default&hide_title=true)
+[![Sanuga's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sanuga7&theme=tokyonight)](https://git.io/praveenscience)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanuga-kusalwin&layout=compact&theme=default)
+| ![Sanuga's github stats](https://github-readme-stats.vercel.app/api?username=Sanuga7&show_icons=true&theme=tokyonight) | ![Sanuga GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanuga7&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanuga7&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Sanuga7&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sanuga-kusalwin&theme=flat)
+---
+
+## 🤣 Random Developer Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ---
 
 > “Build what matters, and make the world your user base.”
-
