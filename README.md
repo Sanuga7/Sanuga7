@@ -1,8 +1,12 @@
-# 👋 Hi there, I'm Sanuga Kusalwin
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-🎓 A passionate **Software Engineering** student from **Colombo, Sri Lanka**  
-🏫 Studying at the **Java Institute for Advanced Technology** (1st Year)  
-🌐 Visit my portfolio: [sanuga-kusalwin.vercel.app](https://sanuga-kusalwin.vercel.app/)
+<h3 align="center">Hey there, I'm <a href="https://sanuga-kusalwin.vercel.app/">Sanuga Kusalwin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+
+<p align="center">
+  <a href="https://sanuga-kusalwin.vercel.app/"><img alt="Portfolio" title="Visit my Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"/></a> 
+  <a href="https://github.com/Sanuga7"><img alt="Follow on GitHub" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Sanuga7?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/Sanuga7"><img alt="GitHub views" title="GitHub profile views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+</p>
 
 ---
 
