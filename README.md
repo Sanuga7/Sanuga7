@@ -56,11 +56,11 @@
 
 ## 📊 GitHub Stats & Activity
 
-[![Sanuga's GitHub Activity Graph]
+[![Sanuga's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sanuga7&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Sanuga's github stats](https://github-readme-stats.vercel.app/api?username=Sanuga7&show_icons=true&theme=tokyonight) | ![Sanuga GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanuga7&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanuga7&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Sanuga7&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanuga7&theme=tokyonight&cache_seconds=0) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Sanuga7&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ---
 
