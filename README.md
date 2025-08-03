@@ -5,7 +5,11 @@
 <p align="center">
   <a href="https://sanuga-kusalwin.vercel.app/"><img alt="Portfolio" title="Visit my Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"/></a> 
   <a href="https://github.com/Sanuga7"><img alt="Follow on GitHub" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Sanuga7?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/Sanuga7"><img alt="GitHub views" title="GitHub profile views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+  <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=Sanuga7.sanuga7" width="94"/>
+</p>
+
+</p>
+
 </p>
 
 ---
